@@ -1,7 +1,7 @@
 site_name: My Docs
 theme:
   name: material
-  features:
-    - navigation.top
-    - search.suggest
-    - content.code.copy
+#  features:
+#    - navigation.top
+#    - search.suggest
+#    - content.code.copy
